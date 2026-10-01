@@ -1,0 +1,5 @@
+/* Helot Farm dashboard: минимум своего, остальное — Bootstrap. */
+[v-cloak] { display: none; }
+.font-monospace { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.text-truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.stream-holder canvas { width: 100%; height: auto; display: block; background: #000; cursor: crosshair; }
